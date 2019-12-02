@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "390426293122",
+    "firebase_url": "https://chatzalo-2bd3d.firebaseio.com",
+    "project_id": "chatzalo-2bd3d",
+    "storage_bucket": "chatzalo-2bd3d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:390426293122:android:71f616dd61999f17a9559b",
+        "android_client_info": {
+          "package_name": "com.example.chatzalo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "390426293122-2ftmsaif2fl17bd27a3qggulfascm2uu.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.chatzalo",
+            "certificate_hash": "61958b26da10113826e51e969a97d3e394fc7021"
+          }
+        },
+        {
+          "client_id": "390426293122-kns7rstk7mlko306ft293bs2cm1atnmf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA5745vBCj_eM7biWDuxSOy1njiReEdJEg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "390426293122-kns7rstk7mlko306ft293bs2cm1atnmf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
